@@ -1,0 +1,6 @@
+framework module ZZScaffold {
+  umbrella header "ZZScaffold-umbrella.h"
+
+  export *
+  module * { export * }
+}

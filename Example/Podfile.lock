@@ -1,0 +1,16 @@
+PODS:
+  - ZZScaffold (0.1.0)
+
+DEPENDENCIES:
+  - ZZScaffold (from `../`)
+
+EXTERNAL SOURCES:
+  ZZScaffold:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZZScaffold: 49f135fa0ff3554e15b13154ab08ea4bd81edcac
+
+PODFILE CHECKSUM: 531ffb5f4b847053d0f483119fda7da735a7f80b
+
+COCOAPODS: 1.8.4
